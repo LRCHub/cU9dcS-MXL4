@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "透明流星ラプソディ",
+  "base_artist": "空爽",
+  "createdAt": "2026-02-07T12:32:53.114479Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "透明流星ラプソディ",
+      "artist": "空爽",
+      "has_synced": false,
+      "path": "select/pl_01_透明流星ラプソディ_空爽.txt"
+    }
+  ]
+}
